@@ -1,1 +1,3 @@
-console.log("Bin in Git")
+function git(){
+  console.log("Bin in Git")
+}
